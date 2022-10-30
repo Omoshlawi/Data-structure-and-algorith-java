@@ -1,10 +1,9 @@
-package invisiTecLab.datastructures.nonelineards.trees;
+package datastructures.nonelineards.trees;
 
-import invisiTecLab.visioExceptions.InvalidOperationException;
 
-import java.util.EventListener;
+import vsexceptions.InvalidOperationException;
+
 import java.util.Iterator;
-import java.util.TreeMap;
 
 public class TreesDs<AnyType> implements Iterable<AnyType> {
     private Node<AnyType> root;

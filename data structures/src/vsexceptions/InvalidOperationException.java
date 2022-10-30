@@ -1,4 +1,4 @@
-package invisiTecLab.visioExceptions;
+package vsexceptions;
 
 public class InvalidOperationException extends Exception{
     public InvalidOperationException(String msg){

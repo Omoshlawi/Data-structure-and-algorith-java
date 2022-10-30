@@ -1,4 +1,4 @@
-package invisiTecLab.datastructures.lineards.stack;
+package datastructures.lineards.stack;
 
 /**
  * @Author Omondi Laurent Ouma

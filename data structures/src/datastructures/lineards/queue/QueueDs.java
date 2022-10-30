@@ -1,6 +1,6 @@
-package invisiTecLab.datastructures.lineards.queue;
+package datastructures.lineards.queue;
 
-import invisiTecLab.datastructures.lineards.linkedlist.SinglyLinkedListDs;
+import datastructures.lineards.linkedlist.SinglyLinkedListDs;
 
 public class QueueDs<AnyType> {
     private SinglyLinkedListDs<AnyType> listDs = new SinglyLinkedListDs<>();

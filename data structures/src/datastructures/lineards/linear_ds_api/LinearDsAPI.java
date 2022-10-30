@@ -1,4 +1,4 @@
-package invisiTecLab.datastructures.lineards.linear_ds_api;
+package datastructures.lineards.linear_ds_api;
 
 
 /**

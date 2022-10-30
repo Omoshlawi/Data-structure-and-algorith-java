@@ -1,6 +1,6 @@
-package invisiTecLab.datastructures.main;
+package datastructures.main;
 
-import invisiTecLab.datastructures.lineards.arrays.ArraysDs;
+import datastructures.lineards.arrays.ArraysDs;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

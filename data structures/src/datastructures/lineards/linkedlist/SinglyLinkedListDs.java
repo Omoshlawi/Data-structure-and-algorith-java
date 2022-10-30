@@ -1,7 +1,7 @@
-package invisiTecLab.datastructures.lineards.linkedlist;
+package datastructures.lineards.linkedlist;
 
 import com.sun.jdi.ArrayReference;
-import invisiTecLab.datastructures.lineards.linear_ds_api.LinearDsAPI;
+import datastructures.lineards.linear_ds_api.LinearDsAPI;
 
 import java.util.Arrays;
 

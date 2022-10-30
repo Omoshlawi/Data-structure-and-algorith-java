@@ -1,4 +1,4 @@
-package invisiTecLab.datastructures.lineards.arrays;
+package datastructures.lineards.arrays;
 
 import invisiTecLab.datastructures.lineards.stack.StackDsDynamic;
 

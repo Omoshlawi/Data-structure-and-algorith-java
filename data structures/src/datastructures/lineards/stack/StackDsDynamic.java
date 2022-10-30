@@ -1,6 +1,6 @@
-package invisiTecLab.datastructures.lineards.stack;
+package datastructures.lineards.stack;
 
-import invisiTecLab.datastructures.lineards.linkedlist.SinglyLinkedListDs;
+import datastructures.lineards.linkedlist.SinglyLinkedListDs;
 
 /**
  * @Author Omondi Laurent Ouma
