@@ -1,6 +1,6 @@
 package datastructures.lineards.arrays;
 
-import invisiTecLab.datastructures.lineards.stack.StackDsDynamic;
+import datastructures.lineards.stack.StackDsDynamic;
 
 import java.util.Arrays;
 
