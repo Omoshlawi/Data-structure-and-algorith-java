@@ -2,36 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="135da63d-a29f-40f1-85d5-84a75c6eee0d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/linear/arrays/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/linear/arrays/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/linear/arrays/arrays.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/linear/hashmaps/hasmaps.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/linear/linkedlist/linkedlist.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/linear/queue/ArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/linear/queue/queue.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/linear/stack/stack.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/nonelinear/graphs/graphs.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/nonelinear/trees/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/nonelinear/trees/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/nonelinear/trees/tress.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/utils/exceptions/ArrayFullError.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data structures/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data structures/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data structures/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data structures/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data structures/data structures.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Data-structure-and-algorith-java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data structures/src/datastructures/lineards/arrays/ArraysDs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/lineards/arrays/ArraysDs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data structures/src/datastructures/lineards/linear_ds_api/LinearDsAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/lineards/linear_ds_api/LinearDsAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data structures/src/datastructures/lineards/linkedlist/CircularLinkedListDs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/lineards/linkedlist/CircularLinkedListDs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data structures/src/datastructures/lineards/linkedlist/SinglyLinkedListDs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/lineards/linkedlist/SinglyLinkedListDs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data structures/src/datastructures/lineards/queue/QueueDs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/lineards/queue/QueueDs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data structures/src/datastructures/lineards/stack/StackDsAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/lineards/stack/StackDsAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data structures/src/datastructures/lineards/stack/StackDsDynamic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/lineards/stack/StackDsDynamic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data structures/src/datastructures/lineards/stack/StackDsStatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/lineards/stack/StackDsStatic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data structures/src/datastructures/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data structures/src/datastructures/nonelineards/trees/TreesDs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/nonelineards/trees/TreesDs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data structures/src/vsexceptions/ArrayFullException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vsexceptions/ArrayFullException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data structures/src/vsexceptions/InvalidOperationException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vsexceptions/InvalidOperationException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructures/lineards/arrays/ArraysDs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/linear/arrays/ArraysDs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructures/lineards/linear_ds_api/LinearDsAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/utils/linear/LinearDsAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructures/lineards/linkedlist/CircularLinkedListDs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/linear/linkedlist/CircularLinkedListDs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructures/lineards/linkedlist/SinglyLinkedListDs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/linear/linkedlist/SinglyLinkedListDs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructures/lineards/queue/QueueDs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/linear/queue/QueueDs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructures/lineards/stack/StackDsAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/linear/stack/StackDsAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructures/lineards/stack/StackDsDynamic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/linear/stack/StackDsDynamic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructures/lineards/stack/StackDsStatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/linear/stack/StackDsStatic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructures/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructures/nonelineards/trees/TreesDs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/nonelinear/trees/TreesDs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -48,7 +68,42 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
+  </component>
+  <component name="RunManager" selected="Application.Test (1)">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructures.nonelinear.trees.Test" />
+      <module name="Data-structure-and-algorith-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructures.nonelinear.trees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructures.linear.arrays.Test" />
+      <module name="Data-structure-and-algorith-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructures.linear.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -77,5 +132,31 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/datastructures/nonelinear/trees/Test.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/datastructures/nonelinear/trees/Test.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/datastructures/nonelinear/trees/Test.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Data_structure_and_algorith_java$Test__1_.ic" NAME="Test (1) Coverage Results" MODIFIED="1670658089574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>datastructures.nonelinear.trees.*</FILTER>
+    </SUITE>
   </component>
 </project>
